@@ -1,4 +1,5 @@
 <?php
+// elseif
 // Receba uma nota (0 a 10) e exiba:
 // - Aprovado (nota ≥ 7)
 // - Recuperação (nota ≥ 5) 
